@@ -10,13 +10,7 @@ body{
     color: #fff;
 }
 
-.booklist{
-    width: 90vw;
-    max-width: 1170vw;
-    margin: 5rem auto;
-    display: grid;
-    gap: 2rem;
-}
+
 h1{
     color: rgb(14, 14, 13);
     font: bolder;
@@ -26,13 +20,12 @@ h3{
     color:rgb(146, 65, 55);
     font: italic;
 }
-h4{
-    color:rgb(185, 31, 31);
-    font: italic;
-}
-h5{
-    color: rgb(108, 194, 185);
-    font: normal;
+.booklist{
+    width: 90vw;
+    max-width: 1170vw;
+    margin: 5rem auto;
+    display: grid;
+    gap: 2rem;
 }
 @media screen and (min-width: 768px){
 .booklist{

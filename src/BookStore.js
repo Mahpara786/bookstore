@@ -38,5 +38,4 @@ const Book = (props) => {
          </article>
     );
 }
-
 export default BookStore
